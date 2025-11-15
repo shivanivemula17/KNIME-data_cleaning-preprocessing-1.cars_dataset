@@ -18,12 +18,6 @@ This KNIME workflow automates the entire cleaning pipeline—ensuring high-quali
 ✔ Standardizing Columns – Renaming, formatting units, text cleanup
 ✔ Filtering Rows – Keeping only valid car records
 ✔ String Manipulation – Replace patterns, split columns
-✔ Feature Engineering
-   • Extract year from car title
-   • Derive mileage in km/l
-   • Convert units (miles → km, HP → BHP if needed)
-✔ Outlier Detection & Treatment
-✔ Exporting Clean Dataset using CSV Writer
 
 🎯 Objectives of the Workflow
 
